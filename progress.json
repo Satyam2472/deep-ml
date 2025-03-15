@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T13:52:47.749Z",
+  "generated_at": "2026-09-28T13:52:50.022Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -65,6 +65,84 @@
       "last_pushed_at": "2025-03-14T10:27:32.553Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2025-03-15T07:29:52.384Z",
+      "last_pushed_at": "2025-03-15T07:29:52.384Z",
+      "language": "python",
+      "lines": 37
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2025-03-15T07:39:29.368Z",
+      "last_pushed_at": "2025-03-15T07:39:29.368Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2025-03-15T07:45:14.578Z",
+      "last_pushed_at": "2025-03-15T07:45:14.578Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2025-03-15T09:53:30.367Z",
+      "last_pushed_at": "2025-03-15T09:53:30.367Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2025-03-15T09:55:23.449Z",
+      "last_pushed_at": "2025-03-15T09:55:23.449Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2025-03-15T09:57:19.950Z",
+      "last_pushed_at": "2025-03-15T09:57:19.950Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
