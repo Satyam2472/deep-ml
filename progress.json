@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T13:52:50.022Z",
+  "generated_at": "2026-09-28T13:52:52.209Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -143,6 +143,58 @@
       "last_pushed_at": "2025-03-15T09:57:19.950Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2025-03-17T11:47:46.261Z",
+      "last_pushed_at": "2025-03-17T11:47:46.261Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2025-03-17T12:01:42.172Z",
+      "last_pushed_at": "2025-03-17T12:01:42.172Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2025-03-17T12:08:15.132Z",
+      "last_pushed_at": "2025-03-17T12:08:15.132Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2025-03-17T12:19:19.729Z",
+      "last_pushed_at": "2025-03-17T12:19:19.729Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
