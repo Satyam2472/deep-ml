@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T13:52:52.209Z",
+  "generated_at": "2026-09-28T13:52:54.576Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -195,6 +195,97 @@
       "last_pushed_at": "2025-03-17T12:19:19.729Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2025-03-20T16:57:48.384Z",
+      "last_pushed_at": "2025-03-20T16:57:48.384Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2025-03-20T17:04:18.524Z",
+      "last_pushed_at": "2025-03-20T17:04:18.524Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2025-03-20T17:05:53.424Z",
+      "last_pushed_at": "2025-03-20T17:05:53.424Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2025-03-20T17:07:55.125Z",
+      "last_pushed_at": "2025-03-20T17:07:55.125Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2025-03-20T17:12:05.959Z",
+      "last_pushed_at": "2025-03-20T17:12:05.959Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2025-03-20T17:12:23.799Z",
+      "last_pushed_at": "2025-03-20T17:12:23.799Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2025-03-20T17:55:32.339Z",
+      "last_pushed_at": "2025-03-20T17:55:32.339Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
