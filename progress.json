@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T13:52:54.576Z",
+  "generated_at": "2026-09-28T13:52:56.944Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -286,6 +286,58 @@
       "last_pushed_at": "2025-03-20T17:55:32.339Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2025-03-22T09:20:06.794Z",
+      "last_pushed_at": "2025-03-22T09:20:06.794Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2025-03-22T09:34:44.853Z",
+      "last_pushed_at": "2025-03-22T09:34:44.853Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:93": {
+      "kind": "problem",
+      "id": "93",
+      "title": "Calculate Mean Absolute Error (MAE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/93",
+      "path": "problems/0093-calculate-mean-absolute-error-mae",
+      "first_solved_at": "2025-03-22T09:39:05.113Z",
+      "last_pushed_at": "2025-03-22T09:39:05.113Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:70": {
+      "kind": "problem",
+      "id": "70",
+      "title": "Calculate Image Brightness",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/70",
+      "path": "problems/0070-calculate-image-brightness",
+      "first_solved_at": "2025-03-22T10:08:06.741Z",
+      "last_pushed_at": "2025-03-22T10:08:06.741Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
