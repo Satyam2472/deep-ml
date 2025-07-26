@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**26** solved · 26 problems · 0 labs · 0 math
+**37** solved · 37 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2025-03-22 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2025-03-20 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
+| [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2025-07-26 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2025-03-17 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2025-03-22 | [solution](problems/0070-calculate-image-brightness) |
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2025-03-22 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
@@ -24,10 +25,20 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2025-03-17 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2025-03-15 | [solution](problems/0083-dot-product-calculator) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2025-03-15 | [solution](problems/0016-feature-scaling-implementation) |
+| [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2025-07-26 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
+| [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2025-07-26 | [solution](problems/0046-implement-precision-metric) |
+| [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2025-07-26 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
+| [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2025-07-26 | [solution](problems/0042-implement-relu-activation-function) |
+| [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2025-07-26 | [solution](problems/0043-implement-ridge-regression-loss-function) |
+| [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2025-07-26 | [solution](problems/0039-implementation-of-log-softmax-function) |
+| [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2025-07-26 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
+| [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2025-07-26 | [solution](problems/0044-leaky-relu-activation-function) |
+| [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2025-07-26 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2025-03-20 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2025-03-20 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-03-11 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2025-03-22 | [solution](problems/0112-min-max-scaling-of-feature-values) |
+| [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2025-07-26 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-03-14 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2025-03-14 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2025-03-15 | [solution](problems/0022-sigmoid-activation-function-understanding) |
