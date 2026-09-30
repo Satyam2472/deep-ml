@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**70** solved · 70 problems · 0 labs · 0 math
+**71** solved · 71 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -77,6 +77,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-09-28 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2025-03-20 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-03-14 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Valid Palindrome II (Delete At Most One Char)](https://www.deep-ml.com/problems/1160) | easy | 2026-09-30 | [solution](problems/1160-valid-palindrome-ii-delete-at-most-one-char) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-09-28 | [solution](problems/0121-vector-element-wise-sum) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-03-20 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2025-08-06 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
