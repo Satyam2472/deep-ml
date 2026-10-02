@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T21:44:42.949Z",
+  "generated_at": "2026-10-02T21:52:20.237Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1157,6 +1157,19 @@
       "last_pushed_at": "2026-10-02T21:44:41.701Z",
       "language": "sql",
       "lines": 13
+    },
+    "problem:1460": {
+      "kind": "problem",
+      "id": "1460",
+      "title": "Customers Who Never Placed an Order",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1460",
+      "path": "problems/1460-customers-who-never-placed-an-order",
+      "first_solved_at": "2026-10-02T21:52:18.272Z",
+      "last_pushed_at": "2026-10-02T21:52:18.272Z",
+      "language": "sql",
+      "lines": 8
     }
   }
 }
