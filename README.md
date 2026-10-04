@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**92** solved · 92 problems · 0 labs · 0 math
+**93** solved · 93 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Apply Zero Padding to an Image](https://www.deep-ml.com/problems/239) | easy | 2026-10-04 | [solution](problems/0239-apply-zero-padding-to-an-image) |
 | [Average per group](https://www.deep-ml.com/problems/1108) | easy | 2026-10-02 | [solution](problems/1108-average-per-group) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2025-08-06 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Bhattacharyya Distance Between Two Distributions](https://www.deep-ml.com/problems/120) | easy | 2026-09-28 | [solution](problems/0120-bhattacharyya-distance-between-two-distributions) |
