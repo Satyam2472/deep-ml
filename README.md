@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**100** solved · 100 problems · 0 labs · 0 math
+**101** solved · 101 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2025-07-27 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2025-03-15 | [solution](problems/0083-dot-product-calculator) |
 | [Duplicated N-gram Coverage Ratio](https://www.deep-ml.com/problems/772) | easy | 2026-09-30 | [solution](problems/0772-duplicated-n-gram-coverage-ratio) |
+| [Dynamic Tanh: Normalization-Free Transformer Activation](https://www.deep-ml.com/problems/128) | easy | 2026-10-08 | [solution](problems/0128-dynamic-tanh-normalization-free-transformer-activation) |
 | [Early Stopping Based on Validation Loss Plateau](https://www.deep-ml.com/problems/199) | easy | 2026-10-02 | [solution](problems/0199-early-stopping-based-on-validation-loss-plateau) |
 | [Exact Match Score with Normalization](https://www.deep-ml.com/problems/325) | easy | 2026-09-30 | [solution](problems/0325-exact-match-score-with-normalization) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2025-03-15 | [solution](problems/0016-feature-scaling-implementation) |
